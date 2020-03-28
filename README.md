@@ -11,11 +11,35 @@
 
 笔记不是从网上到处复制粘贴拼凑而来，虽然有少部分内容会直接引入书上原文或者官方技术文档的原文，但是没有直接摘抄其他人的博客文章，只做了参考，参考的文章会在最后给出链接。
 
+### 内推信息
+
+阿里巴巴淘系前端 2020 年春季校招，本次招聘面向 2021 年应届毕业生，base 为杭州西溪园区。
+
+需要内推的同学请将简历发送至 zhouyou.world@outlook.com 
+
+**邮件主题：**【淘系内推】姓名_学校_电话
+
+**简历名称格式：** 姓名_学校_电话.pdf
+
+所有邮件每晚我会统一回复，感兴趣的同学可以加我的微信 ZY605555926，面试进度和面试相关的问题我都可以帮大家解答~
+
 ### 如何贡献
 
 笔记内容是笔者一个字一个字打上去的，难免会有一些笔误，如果发现笔误可直接在相应文档进行编辑修改。
 
 欢迎提交对本仓库的改进建议~
+
+Contributors: 
+
+<a href="https://github.com/Wscats">
+    <img src="https://avatars3.githubusercontent.com/u/17243165?s=400&u=e7e4c2011ce0486f58a53f3dead46e0152833c3f&v=4" width="50px">
+</a> 
+<a href="https://github.com/ScarboroughCoral">
+    <img src="https://avatars2.githubusercontent.com/u/26180429?s=400&u=03a95e31349f1e457389a3f0565bf3a8e1657920&v=4" width="50px">
+</a>
+<a href="https://github.com/icecxh">
+    <img src="https://avatars2.githubusercontent.com/u/19871501?s=400&u=820c1acdf77f9672838cbcfeb97f5f210bc9b588&v=4" width="50px">
+</a>
 
 ### 授权相关
 
